@@ -1,1 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A blog of great content.]]></description><link>https://zvakanaka.github.io/day-blog</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 31 Jul 2020 06:16:11 GMT</lastBuildDate><item><title><![CDATA[Good Song]]></title><description><![CDATA[Here’s a song that makes me want to try harder to be a better person: Josh Garrels - At the Table]]></description><link>https://zvakanaka.github.io/day-blog/hello-world/</link><guid isPermaLink="false">https://zvakanaka.github.io/day-blog/hello-world/</guid><pubDate>Fri, 31 Jul 2020 05:48:03 GMT</pubDate><content:encoded>&lt;p&gt;Here’s a song that makes me want to try harder to be a better person: &lt;a href=&quot;http://joshgarrels.bandcamp.com/track/at-the-table&quot;&gt;Josh Garrels - At the Table&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog]]></title><description><![CDATA[A blog of great content.]]></description><link>https://zvakanaka.github.io/day-blog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 01 Aug 2020 05:43:59 GMT</lastBuildDate><item><title><![CDATA[Food Never Fails]]></title><description><![CDATA[When talking with people, there’s a chance that they have really good conversation skills. Other times, they don’t. Mine aren’t stellar, but…]]></description><link>https://zvakanaka.github.io/day-blog/everyone-loves/</link><guid isPermaLink="false">https://zvakanaka.github.io/day-blog/everyone-loves/</guid><pubDate>Fri, 31 Jul 2020 22:55:03 GMT</pubDate><content:encoded>&lt;p&gt;When talking with people, there’s a chance that they have really good conversation skills. Other times, they don’t. Mine aren’t stellar, but I’ve learned one thing. If 10-15 seconds of silence go by, say something like, “What’s your favorite food?”, it never fails.&lt;/p&gt;
+&lt;p&gt;And it doesn’t have to stop there. Everybody eats, and most people have been doing it almost every day for their whole life. Here are a few more food questions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;What’s your favorite candy?&lt;/li&gt;
+&lt;li&gt;What foods don’t you like?&lt;/li&gt;
+&lt;li&gt;Sugary or savory?&lt;/li&gt;
+&lt;li&gt;What’s your favorite vegetable?&lt;/li&gt;
+&lt;li&gt;Do you like spicy food? Which ones?&lt;/li&gt;
+&lt;li&gt;Do you like any weird combinations?&lt;/li&gt;
+&lt;li&gt;Have you ever smelled dog food? I love that smell. Do you like the smell of dog food?&lt;/li&gt;
+&lt;li&gt;Are there textures/consistencies that you like/don’t like?&lt;/li&gt;
+&lt;li&gt;You can only eat one food for the rest of your life, what is it?&lt;/li&gt;
+&lt;li&gt;Can a like for a certain food that you don’t like be learned?&lt;/li&gt;
+&lt;li&gt;Have your taste buds changed throughout your life?&lt;/li&gt;
+&lt;li&gt;What’s the best meal you’ve ever had?&lt;/li&gt;
+&lt;li&gt;Who’s the best cook you’ve had the opportunity to know and what was that like?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/blog/static/40c438e623da9350a14e3c2bbb7a852b/72e01/yin-yang-cereal-party.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACA//EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAABWVXHCmzN/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAEQMQEiH/2gAIAQEAAQUCY8quQnQ9hUIbuf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAIDAQAAAAAAAAAAAAAAAAARARAxUf/aAAgBAQAGPwJjqXh2K//EABoQAQEBAAMBAAAAAAAAAAAAAAEAESExQYH/2gAIAQEAAT8hVB5Y7+jLMY7ILrpY5X//2gAMAwEAAgADAAAAEE/P/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAwEBPxATV//EABYRAQEBAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPxBGEz//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhYTFxQVGx/9oACAEBAAE/ED9FGCPqRLAWIfO5S0ZOSA9irp9w0Sy7xVG+5zPnU//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Yin and Yang formation of both chocolate and peanut butter cereal pieces in a bowl during a cereal party&quot;
+        title=&quot;Yin and Yang formation of both chocolate and peanut butter cereal pieces in a bowl during a cereal party&quot;
+        src=&quot;/blog/static/40c438e623da9350a14e3c2bbb7a852b/1c72d/yin-yang-cereal-party.jpg&quot;
+        srcset=&quot;/blog/static/40c438e623da9350a14e3c2bbb7a852b/a80bd/yin-yang-cereal-party.jpg 148w,
+/blog/static/40c438e623da9350a14e3c2bbb7a852b/1c91a/yin-yang-cereal-party.jpg 295w,
+/blog/static/40c438e623da9350a14e3c2bbb7a852b/1c72d/yin-yang-cereal-party.jpg 590w,
+/blog/static/40c438e623da9350a14e3c2bbb7a852b/a8a14/yin-yang-cereal-party.jpg 885w,
+/blog/static/40c438e623da9350a14e3c2bbb7a852b/72e01/yin-yang-cereal-party.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Chocolate cereal mixed with peanut butter cereal during a cereal party. My roommate in college taught me about cereal parties. You can have a cereal party RIGHT NOW if you want. All you need is cereal.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Good Song]]></title><description><![CDATA[Here’s a song that makes me want to try harder to be a better person: Josh Garrels - At the Table]]></description><link>https://zvakanaka.github.io/day-blog/good-song/</link><guid isPermaLink="false">https://zvakanaka.github.io/day-blog/good-song/</guid><pubDate>Thu, 30 Jul 2020 23:48:03 GMT</pubDate><content:encoded>&lt;p&gt;Here’s a song that makes me want to try harder to be a better person: &lt;a href=&quot;http://joshgarrels.bandcamp.com/track/at-the-table&quot;&gt;Josh Garrels - At the Table&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
